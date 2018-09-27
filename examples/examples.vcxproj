@@ -116,13 +116,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="increment.cpp" />
     <ClCompile Include="salesp.cpp" />
     <ClCompile Include="Source1.cpp" />
     <ClCompile Include="Time.cpp" />
+    <ClCompile Include="Time5.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="increment.h" />
     <ClInclude Include="salesp.h" />
     <ClInclude Include="Time.h" />
+    <ClInclude Include="time5.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

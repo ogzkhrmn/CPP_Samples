@@ -27,12 +27,24 @@
     <ClCompile Include="salesp.cpp">
       <Filter>Source Files\classes</Filter>
     </ClCompile>
+    <ClCompile Include="Time5.cpp">
+      <Filter>Source Files\classes</Filter>
+    </ClCompile>
+    <ClCompile Include="increment.cpp">
+      <Filter>Source Files\classes</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Time.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="salesp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="time5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="increment.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
