@@ -3,7 +3,7 @@ class Time
 {
 public:
 	Time();
-	void setTime(int, int, int);
+	void setTime(int = 0, int = 0, int = 0);
 	void printMilitary();
 	~Time();
 private:
