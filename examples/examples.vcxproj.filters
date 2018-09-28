@@ -33,6 +33,12 @@
     <ClCompile Include="increment.cpp">
       <Filter>Source Files\classes</Filter>
     </ClCompile>
+    <ClCompile Include="date1.cpp">
+      <Filter>Source Files\classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Employee.cpp">
+      <Filter>Source Files\classes</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Time.h">
@@ -45,6 +51,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="increment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="date1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="general.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="emp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="examples.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

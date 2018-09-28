@@ -116,6 +116,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="date1.cpp" />
+    <ClCompile Include="Employee.cpp" />
     <ClCompile Include="increment.cpp" />
     <ClCompile Include="salesp.cpp" />
     <ClCompile Include="Source1.cpp" />
@@ -123,6 +125,10 @@
     <ClCompile Include="Time5.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="date1.h" />
+    <ClInclude Include="emp.h" />
+    <ClInclude Include="examples.h" />
+    <ClInclude Include="general.h" />
     <ClInclude Include="increment.h" />
     <ClInclude Include="salesp.h" />
     <ClInclude Include="Time.h" />
