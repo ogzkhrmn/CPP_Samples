@@ -132,9 +132,13 @@
     <ClInclude Include="friend.h" />
     <ClInclude Include="general.h" />
     <ClInclude Include="increment.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="salesp.h" />
     <ClInclude Include="Time.h" />
     <ClInclude Include="time5.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Cpp_Examples.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
