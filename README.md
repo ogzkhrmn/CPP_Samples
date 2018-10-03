@@ -6,7 +6,7 @@ This project created for beginners.
 
   -You can add new examples to project if you want. 
 
-  -I will add new examples as much as i can.
+  -I will add new examples as much as i could.
 
 
 Best regards.
