@@ -2,3 +2,4 @@
 #include "salesp.h"
 #include "increment.h"
 #include "emp.h"
+#include "friend.h"

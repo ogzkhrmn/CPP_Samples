@@ -17,6 +17,4 @@ private:
 	int checkDay(int dy);
 };
 
-
-
 #endif

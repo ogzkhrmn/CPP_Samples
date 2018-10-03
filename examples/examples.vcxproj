@@ -116,6 +116,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Count.cpp" />
     <ClCompile Include="date1.cpp" />
     <ClCompile Include="Employee.cpp" />
     <ClCompile Include="increment.cpp" />
@@ -128,6 +129,7 @@
     <ClInclude Include="date1.h" />
     <ClInclude Include="emp.h" />
     <ClInclude Include="examples.h" />
+    <ClInclude Include="friend.h" />
     <ClInclude Include="general.h" />
     <ClInclude Include="increment.h" />
     <ClInclude Include="salesp.h" />
