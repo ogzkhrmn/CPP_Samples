@@ -120,8 +120,10 @@
     <ClCompile Include="date1.cpp" />
     <ClCompile Include="Employee.cpp" />
     <ClCompile Include="increment.cpp" />
+    <ClCompile Include="intreface.cpp" />
     <ClCompile Include="salesp.cpp" />
     <ClCompile Include="Source1.cpp" />
+    <ClCompile Include="ThisClass.cpp" />
     <ClCompile Include="Time.cpp" />
     <ClCompile Include="Time5.cpp" />
   </ItemGroup>
@@ -131,9 +133,12 @@
     <ClInclude Include="examples.h" />
     <ClInclude Include="friend.h" />
     <ClInclude Include="general.h" />
+    <ClInclude Include="implemantationh.h" />
     <ClInclude Include="increment.h" />
+    <ClInclude Include="interface.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="salesp.h" />
+    <ClInclude Include="This.h" />
     <ClInclude Include="Time.h" />
     <ClInclude Include="time5.h" />
   </ItemGroup>
