@@ -12,7 +12,7 @@ int main()
 		cout <<
 			"1: Time Example\n2:Sales Example\n3:Increment Example\n4:Objects as Members of Classes Example\n5:Friend Access Example\n"
 			<<
-			"6:This example\n7:Interface example\n"
+			"6:This example\n7:Interface example\n8:Operator overloading\n"
 			<<
 			"Insert your choice : " << endl;
 		cin >> userChoice;
@@ -23,6 +23,7 @@ int main()
 		Count* count = new Count();
 		ThisClass thisClass(4);
 		Interface interface(3);
+		operators op;
 		switch (userChoice)
 		{
 		case 1:
@@ -60,6 +61,11 @@ int main()
 			cout << "Before set value : " << interface.getValue() << endl;
 			interface.setValue(10);
 			cout << "After set value : " << interface.getValue() << endl;
+			break;
+		case 8:
+			cout << "Enter phone number like (123) 456-7890:" << endl;
+			cin >> op;
+			cout << "Phone number" << op << endl;
 			break;
 		default:
 			cout << "Wrong button. " << endl;

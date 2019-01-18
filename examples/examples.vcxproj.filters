@@ -48,6 +48,9 @@
     <ClCompile Include="intreface.cpp">
       <Filter>Source Files\classes</Filter>
     </ClCompile>
+    <ClCompile Include="operators.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Time.h">
@@ -87,6 +90,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="implemantationh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="operators.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

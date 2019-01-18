@@ -121,6 +121,7 @@
     <ClCompile Include="Employee.cpp" />
     <ClCompile Include="increment.cpp" />
     <ClCompile Include="intreface.cpp" />
+    <ClCompile Include="operators.cpp" />
     <ClCompile Include="salesp.cpp" />
     <ClCompile Include="Source1.cpp" />
     <ClCompile Include="ThisClass.cpp" />
@@ -136,6 +137,7 @@
     <ClInclude Include="implemantationh.h" />
     <ClInclude Include="increment.h" />
     <ClInclude Include="interface.h" />
+    <ClInclude Include="operators.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="salesp.h" />
     <ClInclude Include="This.h" />
